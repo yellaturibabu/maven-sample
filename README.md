@@ -1,1 +1,1 @@
-# maven-sample
+maven-sample
